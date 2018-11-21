@@ -1,0 +1,25 @@
+body{
+    background: lightblue
+}
+
+p{
+    font-style: italic;
+    margin-inline-start: 20pt;
+    margin-inline-end: 25pt;
+    padding-left: 30pt;
+    padding-right: 600pt 
+}
+
+p{
+  
+}
+
+h1{
+    background: lightgrey
+}
+
+.myimages{
+    width: 200px;
+    height: 200px;
+    margin-right: 200px;
+}
